@@ -7,7 +7,7 @@ I'm Srija Basak, a passionate explorer in the world of Python programming, Data 
 
 **Deep Learning**: Enhancing my skills in neural networks and advanced AI techniques.
 
-**Generative AI**: Exploring creative applications and innovations in AI-generated content.
+**Generative AI**: Exploring creative applications and innovations in Generative AI.
 
 **Google Cloud**: Gaining expertise in cloud computing and scalable solutions.
 
