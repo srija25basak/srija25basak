@@ -14,7 +14,7 @@ I’m eager to team up on projects involving Machine Learning and Deep Learning.
 Feel free to reach out via www.linkedin.com/in/srija-basak for networking or collaboration opportunities.
 
 ⚡ Fun Fact:
-I’m a relentless seeker of knowledge, always on a quest for new learning experiences and challenges.
+I’m a relentless seeker of knowledge, always on a quest for new developing new skills and learning experiences. 
 
 
 <!---
