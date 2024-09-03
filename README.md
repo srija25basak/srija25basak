@@ -2,6 +2,7 @@ Hey there! 👋
 I'm Srija Basak, a passionate explorer in the world of Python programming, Data Analytics, and Data Science. Currently, I’m diving deep into Deep Learning, Google Cloud, and Generative AI.
 
 🚀 What I'm Working On:
+
 **Machine Learning**: Building and refining models to extract insights and drive data-driven decisions.
 
 **Deep Learning**: Enhancing my skills in neural networks and advanced AI techniques.
