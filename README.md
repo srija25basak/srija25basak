@@ -3,9 +3,12 @@ I'm Srija Basak, a passionate explorer in the world of Python programming, Data 
 
 🚀 What I'm Working On:
 **Machine Learning**: Building and refining models to extract insights and drive data-driven decisions.
+
 **Deep Learning**: Enhancing my skills in neural networks and advanced AI techniques.
+
 **Generative AI**: Exploring creative applications and innovations in AI-generated content.
-Google Cloud: Gaining expertise in cloud computing and scalable solutions.
+
+**Google Cloud**: Gaining expertise in cloud computing and scalable solutions.
 
 🤝 Let’s Collaborate!
 I’m eager to team up on projects involving Machine Learning and Deep Learning. If you have a cool idea or need a collaborator, let’s connect!
